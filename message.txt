@@ -1,0 +1,4 @@
+Hello, how are you doing?
+This is a custom message.
+It can be displayed using -m <path> argument.
+Enjoy.
