@@ -1,2 +1,2 @@
-# wakeupneo
+# Wake up, Neo...
 Wake Up, Neo is a simple terminal application in C that displays messages with a typewriter effect, inspired by the iconic lines from The Matrix
