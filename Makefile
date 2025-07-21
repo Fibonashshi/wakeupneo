@@ -3,7 +3,7 @@ CFLAGS  := -Wall -Wextra -std=c99 -pedantic
 LDFLAGS := -lncurses
 SRC     := src/wake-up-neo.c
 BIN     := bin/wake-up-neo
-PREFIX  := /usr/bin
+PREFIX  := /usr/local/bin
 
 .PHONY: all clean install uninstall
 
