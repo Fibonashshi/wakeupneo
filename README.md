@@ -27,7 +27,7 @@ This is a custom message.
 It is being displayed line by line.
 ```
 ## 🛠️ Requirements
-wake-up-neo was made for OS-es with [POSIX](https://pl.wikipedia.org/wiki/Unistd.h), as it uses unistd.h library. Also, it uses the **[ncurses](https://en.wikipedia.org/wiki/Ncurses)** library. It can be installed on different operating systems using:
+wake-up-neo was made for OS-es with [POSIX](https://en.wikipedia.org/wiki/POSIX), as it uses unistd.h library. Also, it uses the **[ncurses](https://en.wikipedia.org/wiki/Ncurses)** library. It can be installed on different operating systems using:
 ### Arch Linux
 
 ```bash
